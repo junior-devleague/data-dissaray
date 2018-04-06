@@ -35,7 +35,8 @@ Desired Outcomes
 Tasks
 =====
 
-1.   
+1.   Start by definining a function, with 1 argument. This is your sort function, so call it something like sort(myList)
+2.   Create a variable, called something like iteration, and 
 
 ### Choto Stretch Goals
 -   
