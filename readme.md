@@ -47,4 +47,3 @@ Tasks
 10. Print what your output list is.
 ### Choto Stretch Goals
 -   create a list using user input rather than predefining it.
--   Currently the function is always running under it's worst case scenario -- if the list is so completely out of order that the first item should be the last item. add another detector to the function so that the function checks if the list before sorting is the same as the list after sorting. If that's the case, break out of the loop and return the list at that point rather than waiting for the function to go through the rest of the pointless loops.
