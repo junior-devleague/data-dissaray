@@ -46,4 +46,4 @@ Tasks
 9. Run your sort function on that list, saving it under a variable named something like output.
 10. Print what your output list is.
 ### Choto Stretch Goals
--   create a list using user input rather than predefining it.
+-   Create a list using user input rather than predefining it.
